@@ -1,4 +1,36 @@
-body {background-color:tan;}
-h1{color:green;}
+body
+{
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+h2
+{
+    color:grey;
+    font-family:verdana;
+}
+.maindiv{
+    background-color:white;
+    color:black;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    float:center;
+    margin:auto;
+}
+#result{
+   background-color:yellow;
+}
+.maindiv label{
+    width: 100px;
+    display: inline-block;
+    margin-left:40px;
+}
+.maindiv button{
+    margin-left:40px;
+    font-size:105%;
+}
+
+
 
 
